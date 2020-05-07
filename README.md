@@ -13,3 +13,6 @@ The following contributors are highly competent ML Engineers.
 List of Contributors:
 
 <Name>, <LinkedIn>, <Github>
+
+Once the list of questions are exhausted a new set of questions will be added from web.
+Other resources (by Bardov): https://github.com/khanhnamle1994/cracking-the-data-science-interview, https://github.com/iamtodor/data-science-interview-questions-and-answers, https://hackernoon.com/160-data-science-interview-questions-415s3y2a
